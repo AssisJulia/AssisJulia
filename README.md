@@ -1,4 +1,4 @@
-<h1 align= center font-family: Arial, sans-serif;>
+<h1 align= center font-family: Times New Roman, serif;>
   Hello world, I'm Julia!
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
@@ -29,3 +29,13 @@
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+font-family: Arial, sans-serif;
+font-family: "Times New Roman", serif;
+font-family: "Courier New", monospace;
+font-family: Georgia, serif;
+font-family: Verdana, sans-serif;
+font-family: Tahoma, sans-serif;
+font-family: "Trebuchet MS", sans-serif;
+font-family: "Lucida Console", monospace;
