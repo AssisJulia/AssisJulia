@@ -21,10 +21,10 @@
 <div align= center style="display: inline_block">
   <br>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" alt="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="120" alt="TypeScript">
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="60" alt="TypeScript">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" alt="HTML">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" alt="CSS">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="60" alt="CSharp">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" alt="CSharp">
   <img src="https://iconduck.com/icons/2636/sql-database-generic?shared" width="60" alt="SQL">
 </div>
