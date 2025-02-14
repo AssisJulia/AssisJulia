@@ -1,4 +1,4 @@
-<h1 align= center font-family: Times New Roman, serif;>
+<h1 align= center font-family: Verdana, sans-serif;>
   Hello world, I'm Julia!
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
@@ -35,7 +35,7 @@ font-family: Arial, sans-serif;
 font-family: "Times New Roman", serif;
 font-family: "Courier New", monospace;
 font-family: Georgia, serif;
-font-family: Verdana, sans-serif;
+
 font-family: Tahoma, sans-serif;
 font-family: "Trebuchet MS", sans-serif;
 font-family: "Lucida Console", monospace;
