@@ -4,11 +4,13 @@
 </h1>
 
 <div align= center>
-  <table>
-    <a href="https://github.com/assisjulia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" margin-right=100px/>
+  <div>
+      <a href="https://github.com/assisjulia">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" margin-right=100px/>
+  </div>
+  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&langs_count=6&theme=tokyonight"/>
-  </table>
+  </div>
 </div>
 
 <div align = center>
@@ -29,13 +31,3 @@
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-font-family: Arial, sans-serif;
-font-family: "Times New Roman", serif;
-font-family: "Courier New", monospace;
-font-family: Georgia, serif;
-
-font-family: Tahoma, sans-serif;
-font-family: "Trebuchet MS", sans-serif;
-font-family: "Lucida Console", monospace;
