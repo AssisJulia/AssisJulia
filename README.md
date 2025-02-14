@@ -13,7 +13,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="120" alt="cat">
