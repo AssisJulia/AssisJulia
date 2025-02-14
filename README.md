@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" alt="CSS">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" alt="Python">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="CSharp">
-  <img src="https://www.freepik.com/icon/database_4248443#fromView=keyword&page=1&position=6&uuid=6aa6d7e8-bc87-4b58-a474-000fb0206101" width="50" alt="SQL">
+  <img src="https://img.icons8.com/?size=100&id=vAJD4bPPf091&format=png&color=000000" width="50" alt="SQL">
 </div>
 
 <br>
