@@ -1,7 +1,7 @@
-<div align= center>
- # Hello world, I'm Julia!
+<h1 align= center>
+  Hello world, I'm Julia!
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
-</div>
+</h1>
 
 <div align= center>
   <table>
@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" alt="CSS">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" alt="Python">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="CSharp">
-  <img src="https://img.icons8.com/?size=100&id=Ign0QG33bZzq&format=png&color=000000" width="60" alt="SQL">
+  <img src="https://img.icons8.com/?size=100&id=Ign0QG33bZzq&format=png&color=000000" width="50" alt="SQL">
 </div>
 
 <br>
