@@ -6,8 +6,7 @@
 <div align= center>
   <table>
     <a href="https://github.com/assisjulia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" margin-right=100px/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&langs_count=6&theme=tokyonight"/>
   </table>
 </div>
