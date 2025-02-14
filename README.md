@@ -1,9 +1,9 @@
-<h2 align="center">
+<h2 align= center>
   Hello world, I'm Julia!
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="50">
 </h2>
 
-<div align="center">
+<div align= center>
   <table>
     <a href="https://github.com/assisjulia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/?size=100&id=Ign0QG33bZzq&format=png&color=000000" width="60" alt="SQL">
 </div>
 
-<div align="center"> 
+<div align= center margin-top: 20px> 
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
