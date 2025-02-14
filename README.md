@@ -3,12 +3,13 @@
   <a href="https://github.com/assisjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" width="120" alt="Python">
-  <img src="https://img.icons8.com/nolan/64/javascript-logo.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" width="120" alt="HTML">
-  <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" width="120" alt="CSS">
-  <img src="https://img.icons8.com/?size=100&id=59966&format=png&color=000000" width="120" alt="CSharp">
-  <img src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" width="120" alt="SQL">
+    
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="120" alt="Python">
+  <img src="https://pt.vecteezy.com/png/27127463-javascript-logotipo-png-javascript-icone-transparente-png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="120" alt="HTML">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="120" alt="CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="120" alt="CSharp">
+  <img src="https://iconduck.com/icons/2636/sql-database-generic?shared" width="120" alt="SQL">
 </table>
 <div> 
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
