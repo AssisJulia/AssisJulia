@@ -12,10 +12,7 @@
   <br><br>
   🎬
     <i>
-      "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos."   
-      <h4>
-        – Harry Potter e o Cálice de Fogo
-      </h4>
+      "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos."    – Harry Potter e o Cálice de Fogo
     </i>
 </h3>
 
