@@ -2,14 +2,19 @@
   Olá! Eu sou a Julia.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
+<br>
 
 <h2>
   Sobre
 </h2>
+
 <h3>
 - 🎂<strong>Idade:</strong> 20 anos
+  <br>
 - 📍<strong>Local:</strong> São Paulo - SP
 </h3>
+
+<br>
 
 <div>
   <h2>
@@ -37,6 +42,10 @@
 <br>
 
 <div> 
+  <h2>
+    Contato
+  </h2>
+  <br>
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
