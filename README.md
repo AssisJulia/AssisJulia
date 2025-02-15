@@ -8,18 +8,24 @@
 - ⭐ 20 anos
 - 🌍 São Paulo - SP
 - 💡 Apaixonada por tecnologia! Sempre explorando e aprendendo.
-- 🎬
+<Br>
+🎬
     <i>
       "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." – Harry Potter e o Cálice de Fogo
     </i>
 
 <br>
+
+## GitHub Status
+
 <div>
   <a href="https://github.com/assisjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&theme=tokyonight"/>
 </div>
 <br>
+
+## Vamos nos conectar!?
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
@@ -31,6 +37,8 @@
   <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="50" alt="SQL">
 </div>
 <br>
+
+## Tecnologias
 
 <div>
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
