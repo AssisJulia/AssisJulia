@@ -8,9 +8,7 @@
   <br>
   🌍 </strong> São Paulo - SP
   <br>
-  💡 </strong> Apaixonada por tecnologia! Sempre explorando e aprendendo.
-  <br>
-  ✨ </strong> "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." - HP ⚯ ͛
+  💡 </strong> Apaixonada por tecnologia! Sempre explorando e aprendendo. 
 </h3>
 
 <br>
@@ -37,3 +35,10 @@
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<h3>
+  ✨ </strong> "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos."
+  <h4>
+    – Harry Potter e o Cálice de Fogo
+  </h4>
+</h3>
