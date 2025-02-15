@@ -8,10 +8,7 @@
 - ⭐ 20 anos
 - 🌍 São Paulo - SP
 - 💡 Apaixonada por tecnologia! Sempre explorando e aprendendo.
-- 🎬 "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos."
-<i>
-  – Harry Potter
-</i>
+- 🎬 "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." <i> – Harry Potter</i>
 
 ## 👥 Vamos nos conectar!?
 
