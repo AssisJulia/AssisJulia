@@ -2,17 +2,28 @@
   Olá! Eu sou a Julia.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
+
 <h2>
-  teste
+  Sobre
 </h2>
+<h3>
+- 🎂<strong>Idade:</strong> 20 anos
+- 📍<strong>Local:</strong> São Paulo - SP
+</h3>
 
 <div>
+  <h2>
+    Estatísticas do GitHub
+  </h2>
   <a href="https://github.com/assisjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&theme=tokyonight"/>
 </div>
 
 <div>
+  <h2>
+    Ferramentas e Tecnologias
+  </h2>
   <br>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="60" alt="TypeScript">
