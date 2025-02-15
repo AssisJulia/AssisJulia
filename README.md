@@ -32,11 +32,11 @@
 ## 🖥️ Tecnologias
 
 <div>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="60" alt="TypeScript">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" alt="HTML">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" alt="CSS">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="CSharp">
-  <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="50" alt="SQL">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" margin-right: 10px alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50" alt="TypeScript">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" alt="CSS">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" alt="Python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="35" alt="CSharp">
+  <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="40" alt="SQL">
 </div>
