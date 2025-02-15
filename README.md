@@ -12,18 +12,12 @@
 </h3>
 
 <div>
-  <h2>
-    Estatísticas do GitHub
-  </h2>
   <a href="https://github.com/assisjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&theme=tokyonight"/>
 </div>
 
 <div>
-  <h2>
-    Ferramentas e Tecnologias
-  </h2>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="60" alt="TypeScript">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" alt="HTML">
@@ -32,8 +26,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="CSharp">
   <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="50" alt="SQL">
 </div>
-
-<br>
 
 <div> 
   <h2>
