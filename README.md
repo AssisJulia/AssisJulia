@@ -11,11 +11,13 @@
   💡 </strong> Apaixonada por tecnologia! Sempre explorando, sempre aprendendo.
 </h3>
 
+<br>
 <div>
   <a href="https://github.com/assisjulia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&theme=tokyonight"/>
 </div>
+<br>
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
@@ -27,10 +29,7 @@
   <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="50" alt="SQL">
 </div>
 
-<div> 
-  <h2>
-    Contato
-  </h2>
+<div>
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: juliaassismiguel04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
