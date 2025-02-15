@@ -11,8 +11,6 @@
   💡 </strong> Apaixonada por tecnologia! Sempre explorando, sempre aprendendo.
 </h3>
 
-<br>
-
 <div>
   <h2>
     Estatísticas do GitHub
