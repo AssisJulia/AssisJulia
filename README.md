@@ -9,7 +9,7 @@
   🌍 São Paulo - SP
   <br>
   💡 Apaixonada por tecnologia! Sempre explorando e aprendendo. 
-  <br>
+  <br><br>
   🎬
     <i>
       "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos."  – Harry Potter e o Cálice de Fogo
