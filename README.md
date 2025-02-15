@@ -3,17 +3,18 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
  
-## Sobre Mim
+## 💫 Sobre Mim
 
 - ⭐ 20 anos
 - 🌍 São Paulo - SP
 - 💡 Apaixonada por tecnologia! Sempre explorando e aprendendo.
-- 🎬
+<br>
+🎬
     <i>
       "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." – Harry Potter e o Cálice de Fogo
     </i>
 
-## Vamos nos conectar!?
+## 👥 Vamos nos conectar!?
 
 <div>
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +22,7 @@
   <a href="https://www.instagram.com/aleajubs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## GitHub Status
+## 📊 GitHub Status
 
 <div>
   <a href="https://github.com/assisjulia">
@@ -29,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&layout=compact&theme=tokyonight"/>
 </div>
 
-## Tecnologias
+## 🖥️ Tecnologias
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" margin-right: 10px alt="JavaScript">
