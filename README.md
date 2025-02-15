@@ -1,4 +1,4 @@
-<h1>
+l<h1>
   Olá! Eu sou a Julia.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
@@ -25,8 +25,8 @@
 
 <div>
   <a href="https://github.com/assisjulia">
-  <img" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🖥️ Tecnologias
