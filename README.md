@@ -28,6 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="45" alt="CSharp">
   <img src="https://img.icons8.com/?size=100&id=OwDEZb0NBLmf&format=png&color=000000" width="50" alt="SQL">
 </div>
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/AssisJulia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
