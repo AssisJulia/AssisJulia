@@ -2,19 +2,17 @@
   Olá! Eu sou a Julia.
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhndzlkc3IwNmo3eHZjZWpqeGdwd2ljeDVtbzg2eWh4OGFqanRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IOaLEhOlGiuwDRqgul/giphy.gif" width="60">
 </h1>
+ 
+## Sobre Mim
 
-<h3>
-  ⭐ 20 anos
-  <br>
-  🌍 São Paulo - SP
-  <br>
-  💡 Apaixonada por tecnologia! Sempre explorando e aprendendo. 
+- ⭐ 20 anos
+- 🌍 São Paulo - SP
+- 💡 Apaixonada por tecnologia! Sempre explorando e aprendendo. 
   <br><br>
   🎬
     <i>
       "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." – Harry Potter e o Cálice de Fogo
     </i>
-</h3>
 
 <br>
 <div>
