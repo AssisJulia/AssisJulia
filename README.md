@@ -25,8 +25,8 @@
 
 <div>
   <a href="https://github.com/assisjulia">
+  <img height=",200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&theme=radical&layout=compact&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assisjulia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisjulia&theme=radical&layout=compact&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🖥️ Tecnologias
