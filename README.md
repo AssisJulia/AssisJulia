@@ -8,7 +8,9 @@
   <br>
   🌍 </strong> São Paulo - SP
   <br>
-  💡 </strong> Apaixonada por tecnologia! Sempre explorando, sempre aprendendo.
+  💡 </strong> Apaixonada por tecnologia! Sempre explorando e aprendendo.
+  <br>
+  ✨ </strong> "Trabalhe duro para ser o seu melhor, mas lembre-se: aquilo que somos importa muito mais do que aquilo que fazemos." - HP ⚯ ͛
 </h3>
 
 <br>
